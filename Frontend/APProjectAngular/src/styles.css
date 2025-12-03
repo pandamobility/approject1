@@ -1,0 +1,15 @@
+/* You can add global styles to this file, and also import other style files */
+:root {
+  /* Define global variables here */
+  --muted: #556666;
+  --accent: #24dcf9aa;
+  --accent-dark: #138496;
+  --app-bg: #f0fafa;
+  --header-bg: #cdc9ff3e
+}
+
+body {
+  margin: 0;
+  background-color: var(--app-bg); /* Sets the color for the entire page */
+  color: #333;
+}

@@ -1,0 +1,7 @@
+
+<h1>FEATURED BOOKS</h1>
+<div class="book-grid-container">
+  @for (book of books; track $index) {
+    <app-book-card [book]="book"></app-book-card>
+  }
+</div>

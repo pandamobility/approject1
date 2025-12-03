@@ -1,0 +1,11 @@
+@import './app.css';
+
+  :root{
+    --bg: #f0fafa;
+    --card: #fff;
+    --muted: #556666;
+    --accent: #17a2b8;
+    --accent-dark: #138496;
+  }
+
+  
