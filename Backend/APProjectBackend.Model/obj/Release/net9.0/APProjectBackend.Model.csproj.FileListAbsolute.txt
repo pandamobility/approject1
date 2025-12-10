@@ -1,0 +1,12 @@
+/Users/michal/Documents/approject/APProjectBackend.Model/bin/Release/net9.0/APProjectBackend.Model.deps.json
+/Users/michal/Documents/approject/APProjectBackend.Model/bin/Release/net9.0/APProjectBackend.Model.dll
+/Users/michal/Documents/approject/APProjectBackend.Model/bin/Release/net9.0/APProjectBackend.Model.pdb
+/Users/michal/Documents/approject/APProjectBackend.Model/obj/Release/net9.0/APProjectBackend.Model.csproj.AssemblyReference.cache
+/Users/michal/Documents/approject/APProjectBackend.Model/obj/Release/net9.0/APProjectBackend.Model.GeneratedMSBuildEditorConfig.editorconfig
+/Users/michal/Documents/approject/APProjectBackend.Model/obj/Release/net9.0/APProjectBackend.Model.AssemblyInfoInputs.cache
+/Users/michal/Documents/approject/APProjectBackend.Model/obj/Release/net9.0/APProjectBackend.Model.AssemblyInfo.cs
+/Users/michal/Documents/approject/APProjectBackend.Model/obj/Release/net9.0/APProjectBackend.Model.csproj.CoreCompileInputs.cache
+/Users/michal/Documents/approject/APProjectBackend.Model/obj/Release/net9.0/APProjectBackend.Model.dll
+/Users/michal/Documents/approject/APProjectBackend.Model/obj/Release/net9.0/refint/APProjectBackend.Model.dll
+/Users/michal/Documents/approject/APProjectBackend.Model/obj/Release/net9.0/APProjectBackend.Model.pdb
+/Users/michal/Documents/approject/APProjectBackend.Model/obj/Release/net9.0/ref/APProjectBackend.Model.dll

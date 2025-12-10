@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\APProjectBackend.API.props" />
+</Project>
